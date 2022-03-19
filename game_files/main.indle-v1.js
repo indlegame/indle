@@ -16046,7 +16046,7 @@
                 this.shadowRoot.appendChild(twitter); */
 				//Changed to Announcement Section in INDLE
                  var announcement = document.createElement("div");
-                announcement.innerHTML = '\n<p><center>Link to <strong style="color: var(--orange);" >INDLE </strong><strong style="color: var(--green);">ARCHIVE</strong> is now available in <strong>Settings</strong>.</p><center>';
+                announcement.innerHTML = '\n<p><center><strong style="color: var(--orange);" >INDLE </strong><strong style="color: var(--green);">ARCHIVE</strong> is now available in <strong>SETTINGS</strong>.</p><center>';
                 this.shadowRoot.appendChild(announcement); 				
               },
             },
