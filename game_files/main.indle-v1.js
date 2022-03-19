@@ -1689,7 +1689,7 @@
 		"udupi",  /* 63 (13May ) */
 		"durga",  /* 64 (14May ) */
 		"islam",  /* 65 (15May ) */
-		"india",  /* 66 (16May ) */
+		"aamir",  /* 66 (16May ) */
 		"simla",  /* 67 (17May ) */
 		"chess",  /* 68 (18May ) */
 		"bhuna",  /* 69 (19May ) */
@@ -1780,7 +1780,7 @@
 		"Fattu",  /* 154 (12Aug ) */
 		"tatas",  /* 155 (13Aug ) */
 		"hills",  /* 156 (14Aug ) */
-		"aamir",  /* 157 (15Aug ) */
+		"india",  /* 157 (15Aug ) */
 		"pappu",  /* 158 (16Aug ) */
 		"tombs",  /* 159 (17Aug ) */
 		"squid",  /* 160 (18Aug ) */
@@ -14721,7 +14721,7 @@
 		"udupi",
 		"durga",
 		"islam",
-		"india",
+		"aamir",
 		"simla",
 		"chess",
 		"bhuna",
@@ -14812,7 +14812,7 @@
 		"Fattu",
 		"tatas",
 		"hills",
-		"aamir",
+		"india",
 		"pappu",
 		"tombs",
 		"squid",
