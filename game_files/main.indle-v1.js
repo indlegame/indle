@@ -16130,7 +16130,7 @@
                   }
                 } 
                  var announcement = document.createElement("div");
-                announcement.innerHTML = '\n<p><center><strong style="color: var(--orange);" >INDLE </strong><strong style="color: var(--green);">ARCHIVE</strong> is now available in <strong>SETTINGS</strong>.</p><center>\n<p><center>Use <strong style="color: var(--orange);" >SUBMIT </strong><strong style="color: var(--green);">WORDS</strong> to contribute to the <strong>INDLE</strong> word list.</p><center>';
+                announcement.innerHTML = '<p><center><strong style="color: var(--orange);" >INDLE </strong><strong style="color: var(--green);">ARCHIVE</strong> and <strong style="color: var(--orange);" >SUBMIT </strong><strong style="color: var(--green);">WORDS</strong> links are now available in <strong>SETTINGS</strong>.</center></p>';
                 this.shadowRoot.appendChild(announcement); 				
               },
             },
