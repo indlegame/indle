@@ -16042,7 +16042,7 @@
                                   }),
                                   (d += "\n"));
                               }),
-                              { text: "".concat(l, "\n\n").concat(d.trimEnd()).concat("\n\nhttps://indlegame.github.io/indle")}
+                              { text: "".concat(l, "\n\n").concat(d.trimEnd()).concat("\n\nhttps://indlegame.github.io/indle/")}
                             );
                           })({
                             evaluations: e.gameApp.evaluations,
