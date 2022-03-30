@@ -16139,7 +16139,7 @@
                         );
                       });
                 var announcement = document.createElement("div");
-                announcement.innerHTML = '<p><h5><center><strong style="color: var(--orange);" >INDLE </strong><strong style="color: var(--green);">ARCHIVE</strong> and <strong style="color: var(--orange);" >SUBMIT </strong><strong style="color: var(--green);">WORDS</strong> links are now available in <strong>SETTINGS</strong>.</center></h5></p>';
+                announcement.innerHTML = '<center style="font-size:12px"><strong style="color: var(--orange);" >INDLE </strong><strong style="color: var(--green);">ARCHIVE</strong> and <strong style="color: var(--orange);" >SUBMIT </strong><strong style="color: var(--green);">WORDS</strong> links are now available in <strong>SETTINGS</strong>.</center>';
                 this.shadowRoot.appendChild(announcement); 					  
                 }				
               },
