@@ -645,7 +645,7 @@
 		"lassi",  /* 24 (4Apr ) */
 		"avial",  /* 25 (5Apr ) */
 		"shiva",  /* 26 (6Apr ) */
-		"tigerly",  /* 27 (7Apr ) */
+		"tiger",  /* 27 (7Apr ) */
 		"curry",  /* 28 (8Apr ) */
 		"moong",  /* 29 (9Apr ) */
 		"clove",  /* 30 (10Apr ) */
